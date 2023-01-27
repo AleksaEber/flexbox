@@ -1,0 +1,118 @@
+*  {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: seashell;
+    font-size: 22px;
+    text-align: center;
+    
+}
+
+nav {
+    border-bottom: 1px solid seashell;
+    height: 69px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    width: 130px;
+    display: inline-flex;
+    justify-content:flex-end;
+    text-decoration: underline;
+    margin-right: 10px;
+}
+nav img {
+    display: inline-flex;
+    justify-content: flex-start;
+    height: 50px;
+    margin: 10px;
+}
+
+.back {
+    display: flex;
+    align-items: flex-start;
+    width: 1200px;
+    opacity: 0.5;
+    margin: 0 40px;
+}
+
+.text {
+    position: absolute;
+   display: inline;
+   justify-items: center;
+   align-items: flex-end;
+   width: 1200px;
+   background-color: black;
+   margin-top: 300px;
+}
+
+.mission {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 700px;
+}
+
+.weektee {
+    object-fit: cover;
+}
+
+.pic img {
+    height: 200px;
+    width: 300px;
+}
+
+.weektee1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.weektee2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pic {
+    width: 1000px;
+    margin: 60px 140px;
+    opacity: 0.5;
+}
+
+.koffepic {
+    display: flex;
+    align-items: flex-start;
+    width: 1200px;
+    opacity: 0.5;
+
+    width: 1200px;
+}
+
+.locinf {
+
+    position: absolute;
+   display: inline-flex;
+   justify-content: center;
+   align-content: center;
+   
+    
+}
+
+.items {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px;
+    width: 900px;
+    
+}
+
+.loc1 {
+    
+}
+
+.location {
+    display: flex;
+    height: 500px;
+    border: 3px white solid;
+}
