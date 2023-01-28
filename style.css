@@ -161,3 +161,10 @@ h2 {
 footer {
     height: 250px;
 }
+
+.contact {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
